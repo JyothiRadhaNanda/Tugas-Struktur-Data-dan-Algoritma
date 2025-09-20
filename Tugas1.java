@@ -39,7 +39,6 @@ public class Tugas1 {
     int pajak = (gajiPokok + tunjangan) * 15 / 100;
     int gajiBersih = gajiPokok + tunjangan - pajak;
     System.out.println("Gaji bersih: " + gajiBersih);
-    scanner.close();
     //============= 3 ==============//
     /*
     Pseudocode:
@@ -79,5 +78,6 @@ public class Tugas1 {
     int menit1 = scanner.nextInt();
     detik = sisaDetik % 60;
     System.out.println("Hasil: " + jam1 + " jam " + menit1 + " menit " + detik + " detik");
+    scanner.close();
     }
 }
