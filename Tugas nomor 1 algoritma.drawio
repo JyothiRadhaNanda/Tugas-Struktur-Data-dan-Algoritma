@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="XAV1Iv1e7Ab9pRIE61Hq">
+    <mxGraphModel dx="715" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDTu9s-H_PrY1xHSgAj8-1" target="vDTu9s-H_PrY1xHSgAj8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDTu9s-H_PrY1xHSgAj8-4" target="vDTu9s-H_PrY1xHSgAj8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-4" value="Harga Diskon = Total Harga x (diskon/100)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDTu9s-H_PrY1xHSgAj8-5" target="vDTu9s-H_PrY1xHSgAj8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-5" value="float diskon&lt;div&gt;float harga gula&lt;/div&gt;&lt;div&gt;int jumlah gula&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDTu9s-H_PrY1xHSgAj8-6" target="vDTu9s-H_PrY1xHSgAj8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-6" value="Harga Akhir = Total harga - harga diskon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDTu9s-H_PrY1xHSgAj8-7" target="vDTu9s-H_PrY1xHSgAj8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-7" value="Harga akhir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-8" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vDTu9s-H_PrY1xHSgAj8-14" target="vDTu9s-H_PrY1xHSgAj8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vDTu9s-H_PrY1xHSgAj8-14" value="Total Harga = harga gula x jumlah gula" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="130" width="210" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
